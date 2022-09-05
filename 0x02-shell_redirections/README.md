@@ -1,2 +1,1 @@
-#!/bin/bash
-Print Hello world
+smiley
